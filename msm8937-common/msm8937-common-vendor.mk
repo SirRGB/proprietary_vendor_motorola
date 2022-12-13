@@ -499,7 +499,6 @@ PRODUCT_PACKAGES += \
     CneApp \
     TimeService \
     QtiTelephonyService \
-    datastatusnotification \
     ims \
     qcrilmsgtunnel \
     vendor.qti.gnss@3.0-service
